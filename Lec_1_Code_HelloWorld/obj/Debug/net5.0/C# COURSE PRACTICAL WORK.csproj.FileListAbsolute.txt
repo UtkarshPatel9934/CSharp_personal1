@@ -1,0 +1,35 @@
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.deps.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.runtimeconfig.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/bin/Debug/net5.0/ref/C# COURSE PRACTICAL WORK.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/ref/C# COURSE PRACTICAL WORK.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.genruntimeconfig.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.deps.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.runtimeconfig.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/bin/Debug/net5.0/ref/C# COURSE PRACTICAL WORK.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/bin/Debug/net5.0/C# COURSE PRACTICAL WORK.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/ref/C# COURSE PRACTICAL WORK.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_1_Code_HelloWorld/obj/Debug/net5.0/C# COURSE PRACTICAL WORK.genruntimeconfig.cache

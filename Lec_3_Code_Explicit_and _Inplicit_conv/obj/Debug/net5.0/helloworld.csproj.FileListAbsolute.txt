@@ -1,0 +1,30 @@
+/Users/utkarsh/Downloads/helloworld/bin/Debug/net5.0/helloworld.deps.json
+/Users/utkarsh/Downloads/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/Users/utkarsh/Downloads/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/helloworld/bin/Debug/net5.0/helloworld.dll
+/Users/utkarsh/Downloads/helloworld/bin/Debug/net5.0/ref/helloworld.dll
+/Users/utkarsh/Downloads/helloworld/bin/Debug/net5.0/helloworld.pdb
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/helloworld.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/helloworld.dll
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/ref/helloworld.dll
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/helloworld.pdb
+/Users/utkarsh/Downloads/helloworld/obj/Debug/net5.0/helloworld.genruntimeconfig.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/bin/Debug/net5.0/helloworld.deps.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/bin/Debug/net5.0/helloworld.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/bin/Debug/net5.0/ref/helloworld.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/bin/Debug/net5.0/helloworld.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/helloworld.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/helloworld.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/ref/helloworld.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/helloworld.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_3_Code_Explicit_and _Inplicit_conv/obj/Debug/net5.0/helloworld.genruntimeconfig.cache

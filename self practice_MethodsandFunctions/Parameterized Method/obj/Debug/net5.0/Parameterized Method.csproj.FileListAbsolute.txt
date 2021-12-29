@@ -1,0 +1,15 @@
+/Users/utkarsh/Downloads/Parameterized Method/bin/Debug/net5.0/Parameterized Method.deps.json
+/Users/utkarsh/Downloads/Parameterized Method/bin/Debug/net5.0/Parameterized Method.runtimeconfig.json
+/Users/utkarsh/Downloads/Parameterized Method/bin/Debug/net5.0/Parameterized Method.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Parameterized Method/bin/Debug/net5.0/Parameterized Method.dll
+/Users/utkarsh/Downloads/Parameterized Method/bin/Debug/net5.0/ref/Parameterized Method.dll
+/Users/utkarsh/Downloads/Parameterized Method/bin/Debug/net5.0/Parameterized Method.pdb
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/Parameterized Method.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/Parameterized Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/Parameterized Method.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/Parameterized Method.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/Parameterized Method.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/Parameterized Method.dll
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/ref/Parameterized Method.dll
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/Parameterized Method.pdb
+/Users/utkarsh/Downloads/Parameterized Method/obj/Debug/net5.0/Parameterized Method.genruntimeconfig.cache

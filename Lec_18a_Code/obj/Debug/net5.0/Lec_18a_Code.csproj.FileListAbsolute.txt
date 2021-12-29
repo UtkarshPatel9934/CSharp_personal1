@@ -1,0 +1,15 @@
+/Users/utkarsh/Downloads/Lec_18a_Code/bin/Debug/net5.0/Lec_18a_Code.deps.json
+/Users/utkarsh/Downloads/Lec_18a_Code/bin/Debug/net5.0/Lec_18a_Code.runtimeconfig.json
+/Users/utkarsh/Downloads/Lec_18a_Code/bin/Debug/net5.0/Lec_18a_Code.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Lec_18a_Code/bin/Debug/net5.0/Lec_18a_Code.dll
+/Users/utkarsh/Downloads/Lec_18a_Code/bin/Debug/net5.0/ref/Lec_18a_Code.dll
+/Users/utkarsh/Downloads/Lec_18a_Code/bin/Debug/net5.0/Lec_18a_Code.pdb
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/Lec_18a_Code.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/Lec_18a_Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/Lec_18a_Code.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/Lec_18a_Code.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/Lec_18a_Code.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/Lec_18a_Code.dll
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/ref/Lec_18a_Code.dll
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/Lec_18a_Code.pdb
+/Users/utkarsh/Downloads/Lec_18a_Code/obj/Debug/net5.0/Lec_18a_Code.genruntimeconfig.cache

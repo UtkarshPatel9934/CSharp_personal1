@@ -1,0 +1,15 @@
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /bin/Debug/net5.0/Self_C# Methods and Functions.deps.json
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /bin/Debug/net5.0/Self_C# Methods and Functions.runtimeconfig.json
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /bin/Debug/net5.0/Self_C# Methods and Functions.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /bin/Debug/net5.0/Self_C# Methods and Functions.dll
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /bin/Debug/net5.0/ref/Self_C# Methods and Functions.dll
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /bin/Debug/net5.0/Self_C# Methods and Functions.pdb
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/Self_C# Methods and Functions.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/Self_C# Methods and Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/Self_C# Methods and Functions.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/Self_C# Methods and Functions.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/Self_C# Methods and Functions.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/Self_C# Methods and Functions.dll
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/ref/Self_C# Methods and Functions.dll
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/Self_C# Methods and Functions.pdb
+/Users/utkarsh/Downloads/Self_C# Methods and Functions /obj/Debug/net5.0/Self_C# Methods and Functions.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lec_16a_code/1.0.0": {
+        "runtime": {
+          "Lec_16a_code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lec_16a_code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

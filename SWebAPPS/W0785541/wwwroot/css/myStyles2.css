@@ -1,0 +1,171 @@
+@charset "utf-8";
+@font-face {
+    font-family: Quicksand;
+    src: url('Quicksand-Regular.woff') format('woff'), url('Quicksand-Regular.ttf') format('truetype');
+}
+
+
+/*
+      Author: Utkarsh Himanshu Patel
+      Date: 2021-07-24      
+
+      Filename: myStyles2.css
+      */
+
+html {
+    background-color: #DBB98F;
+    /*sand*/
+}
+
+body {
+    color: #96351E;
+    /*Terracotta*/
+    /*139 60 38*/
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+h1 {
+    color: rgb(222, 128, 60);
+    font-size: 2.7em;
+    text-align: center;
+    border: solid 1px black;
+    background-color: #96351E;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-left: 20px;
+    font-family: Quicksand, verdana, Geneva, sans-serif;
+    letter-spacing: 0.1em;
+    letter-spacing: 0.1em;
+    text-decoration: overline;
+    margin-top: 50px;
+}
+
+hr {
+    border-color: rgb(139, 60, 38);
+}
+
+ul>li.pg2 {
+    list-style-type: square;
+}
+
+ul>li.pg3 {
+    list-style-type: square;
+    font-weight: bold;
+}
+
+nav>ul>li.first {
+    list-style-type: none;
+    font-size: 1.7em;
+    margin-bottom: 5px;
+    font-family: cursive, monospace, serif, sans-serif;
+    font-size: 2.7em;
+    margin-left: 132px;
+}
+
+nav>ul>li.second,
+li.third {
+    list-style-type: none;
+    font-size: 2.1em;
+    display: inline;
+    margin-left: 0px;
+}
+
+nav>ul>li>a:link,
+nav>ul>li>a:visited {
+    background-color: rgb(139, 70, 40);
+    padding: 0.1em 0.1em;
+    color: rgb(222, 128, 60);
+    text-decoration: none;
+    text-align: center;
+}
+
+nav>ul>li>a:hover,
+nav>ul>li>a:active {
+    background-color: antiquewhite;
+    padding: 0.1em 0.1em;
+    color: darkred;
+    text-decoration: none;
+    text-align: center;
+}
+
+ul>li {
+    font-size: 1.7em;
+    margin-left: 30px;
+}
+
+p.para {
+    font-size: 1.3em;
+    color: rgb(120, 52, 30);
+    margin: 20px 20px;
+    background-color: rgb(210, 166, 130);
+    padding: 1em 1em;
+}
+
+p.pgtp>a {
+    background-color: rgb(222, 128, 60);
+    color: rgba(255, 255, 255, 0.7);
+    font: normal small-caps bold 0.9em/3em Quicksand, Verdana, Geneva, sans-serif;
+    text-align: center;
+    font-size: 1.3em;
+    border: solid 2px black;
+    margin-left: 20px;
+}
+
+p.pgtp>a:link,
+p.pgtp>a:visited {
+    padding: 0.1em 0.1em;
+    color: darkred;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.7em;
+    width: 5px;
+}
+
+p.pgtp>a:hover,
+p.pgtp>a:active {
+    padding: 0.1em 0.1em;
+    color: #DBB98F;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.7em;
+    width: 5px;
+}
+
+footer {
+    background-color: rgb(222, 128, 60);
+    color: white;
+    color: rgba(255, 255, 255, 0.7);
+    font: normal small-caps bold 0.9em/3em Quicksand, Verdana, Geneva, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    border: solid 2px rgb(120, 52, 30);
+}
+
+footer>a:link,
+footer>a:visited {
+    padding: 0.1em 0.1em;
+    color: rgb(120, 52, 30);
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.7em;
+    width: 5px;
+}
+
+footer>a:hover,
+footer>a:active {
+    padding: 0.1em 0.1em;
+    color: #DBB98F;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.7em;
+    width: 5px;
+}
+
+footer>p.foot {
+    color: floralwhite;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+}

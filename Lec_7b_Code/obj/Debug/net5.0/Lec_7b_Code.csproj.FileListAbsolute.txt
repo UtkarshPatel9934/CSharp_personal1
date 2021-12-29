@@ -1,0 +1,30 @@
+/Users/utkarsh/Downloads/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.deps.json
+/Users/utkarsh/Downloads/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.runtimeconfig.json
+/Users/utkarsh/Downloads/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.dll
+/Users/utkarsh/Downloads/Lec_7b_Code/bin/Debug/net5.0/ref/Lec_7b_Code.dll
+/Users/utkarsh/Downloads/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.pdb
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.dll
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/ref/Lec_7b_Code.dll
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.pdb
+/Users/utkarsh/Downloads/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.genruntimeconfig.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.deps.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.runtimeconfig.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/bin/Debug/net5.0/ref/Lec_7b_Code.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/bin/Debug/net5.0/Lec_7b_Code.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/ref/Lec_7b_Code.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_7b_Code/obj/Debug/net5.0/Lec_7b_Code.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/bin/Debug/net5.0/Csharp.deps.json
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.json
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/bin/Debug/net5.0/Csharp.dll
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/bin/Debug/net5.0/ref/Csharp.dll
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/bin/Debug/net5.0/Csharp.pdb
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/Csharp.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/Csharp.dll
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/ref/Csharp.dll
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/Csharp.pdb
+/Users/utkarsh/Downloads/Practical Of COURSE/Csharp/obj/Debug/net5.0/Csharp.genruntimeconfig.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/bin/Debug/net5.0/Csharp.deps.json
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.json
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/bin/Debug/net5.0/Csharp.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/bin/Debug/net5.0/Csharp.dll
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/bin/Debug/net5.0/ref/Csharp.dll
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/bin/Debug/net5.0/Csharp.pdb
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/Csharp.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/Csharp.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/Csharp.dll
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/ref/Csharp.dll
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/Csharp.pdb
+/Users/utkarsh/Downloads/Practical Of COURSE/C# COURSE PRACTICAL WORK/Csharp/obj/Debug/net5.0/Csharp.genruntimeconfig.cache

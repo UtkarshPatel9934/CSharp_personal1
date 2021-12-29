@@ -1,0 +1,5 @@
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_15c_code/obj/Debug/net5.0/Lec_15c_code.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_15c_code/obj/Debug/net5.0/Lec_15c_code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_15c_code/obj/Debug/net5.0/Lec_15c_code.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_15c_code/obj/Debug/net5.0/Lec_15c_code.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_15c_code/obj/Debug/net5.0/Lec_15c_code.csproj.CoreCompileInputs.cache

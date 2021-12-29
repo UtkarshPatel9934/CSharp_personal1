@@ -1,0 +1,15 @@
+/Users/utkarsh/Downloads/Original ass/bin/Debug/net5.0/Original ass.deps.json
+/Users/utkarsh/Downloads/Original ass/bin/Debug/net5.0/Original ass.runtimeconfig.json
+/Users/utkarsh/Downloads/Original ass/bin/Debug/net5.0/Original ass.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Original ass/bin/Debug/net5.0/Original ass.dll
+/Users/utkarsh/Downloads/Original ass/bin/Debug/net5.0/ref/Original ass.dll
+/Users/utkarsh/Downloads/Original ass/bin/Debug/net5.0/Original ass.pdb
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/Original ass.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/Original ass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/Original ass.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/Original ass.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/Original ass.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/Original ass.dll
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/ref/Original ass.dll
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/Original ass.pdb
+/Users/utkarsh/Downloads/Original ass/obj/Debug/net5.0/Original ass.genruntimeconfig.cache

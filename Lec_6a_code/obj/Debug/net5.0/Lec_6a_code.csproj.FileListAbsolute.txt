@@ -1,0 +1,30 @@
+/Users/utkarsh/Downloads/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.deps.json
+/Users/utkarsh/Downloads/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.runtimeconfig.json
+/Users/utkarsh/Downloads/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.dll
+/Users/utkarsh/Downloads/Lec_6a_code/bin/Debug/net5.0/ref/Lec_6a_code.dll
+/Users/utkarsh/Downloads/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.pdb
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.dll
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/ref/Lec_6a_code.dll
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.pdb
+/Users/utkarsh/Downloads/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.genruntimeconfig.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.deps.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.runtimeconfig.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/bin/Debug/net5.0/ref/Lec_6a_code.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/bin/Debug/net5.0/Lec_6a_code.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/ref/Lec_6a_code.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_6a_code/obj/Debug/net5.0/Lec_6a_code.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+/Users/utkarsh/Downloads/Lec_5_Code/bin/Debug/net5.0/Operators.deps.json
+/Users/utkarsh/Downloads/Lec_5_Code/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/utkarsh/Downloads/Lec_5_Code/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Lec_5_Code/bin/Debug/net5.0/Operators.dll
+/Users/utkarsh/Downloads/Lec_5_Code/bin/Debug/net5.0/ref/Operators.dll
+/Users/utkarsh/Downloads/Lec_5_Code/bin/Debug/net5.0/Operators.pdb
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/Operators.dll
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/ref/Operators.dll
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/Operators.pdb
+/Users/utkarsh/Downloads/Lec_5_Code/obj/Debug/net5.0/Operators.genruntimeconfig.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/bin/Debug/net5.0/Operators.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/Operators.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/bin/Debug/net5.0/Operators.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/bin/Debug/net5.0/Operators.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/Operators.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/Operators.pdb
+/Users/utkarsh/Downloads/Course_Practical/C# COURSE PRACTICAL WORK/Lec_5_Code_Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache

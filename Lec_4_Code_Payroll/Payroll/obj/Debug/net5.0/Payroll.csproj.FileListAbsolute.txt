@@ -1,0 +1,15 @@
+/Users/utkarsh/Downloads/Payroll/bin/Debug/net5.0/Payroll.deps.json
+/Users/utkarsh/Downloads/Payroll/bin/Debug/net5.0/Payroll.runtimeconfig.json
+/Users/utkarsh/Downloads/Payroll/bin/Debug/net5.0/Payroll.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Payroll/bin/Debug/net5.0/Payroll.dll
+/Users/utkarsh/Downloads/Payroll/bin/Debug/net5.0/ref/Payroll.dll
+/Users/utkarsh/Downloads/Payroll/bin/Debug/net5.0/Payroll.pdb
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/Payroll.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/Payroll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/Payroll.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/Payroll.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/Payroll.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/Payroll.dll
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/ref/Payroll.dll
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/Payroll.pdb
+/Users/utkarsh/Downloads/Payroll/obj/Debug/net5.0/Payroll.genruntimeconfig.cache

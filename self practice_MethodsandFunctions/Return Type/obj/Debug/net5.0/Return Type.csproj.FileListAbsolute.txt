@@ -1,0 +1,15 @@
+/Users/utkarsh/Downloads/Return Type/bin/Debug/net5.0/Return Type.deps.json
+/Users/utkarsh/Downloads/Return Type/bin/Debug/net5.0/Return Type.runtimeconfig.json
+/Users/utkarsh/Downloads/Return Type/bin/Debug/net5.0/Return Type.runtimeconfig.dev.json
+/Users/utkarsh/Downloads/Return Type/bin/Debug/net5.0/Return Type.dll
+/Users/utkarsh/Downloads/Return Type/bin/Debug/net5.0/ref/Return Type.dll
+/Users/utkarsh/Downloads/Return Type/bin/Debug/net5.0/Return Type.pdb
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/Return Type.csprojAssemblyReference.cache
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/Return Type.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/Return Type.AssemblyInfoInputs.cache
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/Return Type.AssemblyInfo.cs
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/Return Type.csproj.CoreCompileInputs.cache
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/Return Type.dll
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/ref/Return Type.dll
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/Return Type.pdb
+/Users/utkarsh/Downloads/Return Type/obj/Debug/net5.0/Return Type.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C# COURSE PRACTICAL WORK/1.0.0": {
+        "runtime": {
+          "C# COURSE PRACTICAL WORK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# COURSE PRACTICAL WORK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
